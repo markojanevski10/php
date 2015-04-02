@@ -53,4 +53,6 @@ foreach($predmeti as $predmet){
 }
 echo 'Sredna vrednost na zapishani studenti po predmet: '.$sobirok / count($predmeti);
 
+
+// test commit
    ?>
